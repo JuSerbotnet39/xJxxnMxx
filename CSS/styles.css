@@ -1,0 +1,37 @@
+body {
+    background-image: linear-gradient(black, rgb(116, 15, 15), crimson, rgb(146, 0, 68));
+}
+
+div.f0 {
+    color: aliceblue;
+    padding: 30px;
+    font-family: fantasy;
+}
+
+div.f1 {
+    font-family: fantasy;
+    color: aliceblue;
+    background-color: crimson;
+    padding: 350px;
+    margin: 10px;
+    border: 10px solid;
+    margin: 10px white;
+}
+
+h1.style1 {
+    text-align: right;
+    font-size: 100px;
+    font-family: fantasy;
+}
+
+div.f3 {
+    color: white;
+}
+
+div.f2 {
+    padding: 300000px;
+}
+
+div.f4 {
+    text-align: right;
+}
